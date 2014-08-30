@@ -1,0 +1,14 @@
+<bt1>:
+        canvas:
+                Color:
+                        rgb: .5, .5, .5
+        Rectangle:
+                pos: self.pos
+                size: self.size
+        Color:
+                rgb: 1, 1, 1
+        Rectangle:
+                texture: self.texture
+                pos: self.center_x - self.texture_size[0] / 2., self.center_y - self.texture_size[1] / 2.
+                size: self.texture_size
+
