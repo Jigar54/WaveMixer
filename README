@@ -1,0 +1,10 @@
+README:
+
+-> The UI has been implemented using kivy, a module in python. Implementing pause is not possible in kivy. The seek function is still a bug and the developers are trying to solve it. 
+
+-> Dont double click while selecting a file use open button!! (The Add on doesnt allow double clicking to select)
+
+-> Play all the files normally when selected once.
+
+
+
